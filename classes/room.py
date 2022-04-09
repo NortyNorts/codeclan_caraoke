@@ -22,5 +22,3 @@ class Room():
     
     def remove_song_from_room(self, name):
         self.songs_in_room.remove(name)
-
-    
