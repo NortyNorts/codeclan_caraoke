@@ -1,7 +1,4 @@
 
-from classes.guest import Guest
-
-
 class Room():
     def __init__(self,name, entry_fee):
         self.name = name
